@@ -60,7 +60,7 @@
 
 Throughout 2023, K. Sophie Will and Eric S. Peterson of the Utah Investigative Journalism Project acquired records of nearly a quarter of a million charges filed in Utah State Courts relating to domestic violence covering Dec. 1, 2013 to Nov. 30, 2023. From Sophie's data analysis, Sophie and Eric wrote a series on the state of domestic violence in Utah courts, released in early 2024 by the Salt Lake Tribune, supported by funding from the Alicia Patterson Foundation and the Fund for Investigative Journalism. 
 
-In this repo you will find the clean data for both Justice and District courts, as well as a data memo with our findings. Please don't hesitate to reach out to Sophie with any questions, her contact information can be found below.
+In this repository you will find the clean data for both Justice and District courts, as well as a data memo with our findings. Please don't hesitate to reach out to Sophie with any questions, her contact information can be found below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
