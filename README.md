@@ -45,9 +45,8 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact and Credit</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#use">License</a></li>
+    <li><a href="#contact-and-credit">Contact and Credit</a></li>
   </ol>
 </details>
 
@@ -94,7 +93,9 @@ The data may be forked or otherwise duplicated with credit given to the Utah Sta
 <!-- CONTACT -->
 ## Contact and Credit
 
-K. Sophie Will - [@ksophiewill](https://twitter.com/ksophiewill) - ksophiewill@gmail.com - [ksophiewill.com](https://ksophiewill.com)
+K. Sophie Will - Data Reporter - [@ksophiewill](https://twitter.com/ksophiewill) - ksophiewill@gmail.com - [ksophiewill.com](https://ksophiewill.com)
+
+Eric S. Peterson - Editor, Reporter -[@UTInvestigative](https://twitter.com/UTInvestigative) - epeterson@utahinvestigative.org - [utahinvestigative.org](https://www.utahinvestigative.org/)
 
 Project Link: [https://github.com/ksophiewill/uijpdv](https://github.com/ksophiewill/uijpdv)
 
