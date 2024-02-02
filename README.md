@@ -9,16 +9,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
-    <img src="UIJP_logo2.jpg" alt="UIJP Logo" width="250" height="150">
+  <a href="https://github.com/ksophiewill/uijpdv">
+    <img src="logos/UIJP_logo2.jpg" alt="UIJP Logo" width="250" height="150">
     
   <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
-    <img src="APF-Logo-v2.jpg" alt="APF Logo" width="200" height="150">
+    <img src="logos/APF-Logo-v2.jpg" alt="APF Logo" width="200" height="150">
   </a>
 <br />
 <div align="center">
   <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
-    <img src="sltrib.png" alt="SLTrib Logo" width="400" height="60">
+    <img src="logos/sltrib.png" alt="SLTrib Logo" width="400" height="60">
     </a>
 
 <h3 align="center">Domestic Violence-Related Charges in Utah State Courts</h3>
