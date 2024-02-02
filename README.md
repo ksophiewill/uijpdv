@@ -1,9 +1,3 @@
-## Domestic Violence-Related Charges in Utah State Courts
-Data from the Utah Investigative Journalism Project's domestic violence in courts series.
-
-This series was supported by funding from the Alicia Patterson Foundation and the Fund for Investigative Journalism and was reported by The Utah Investigative Journalism Project in partnership with The Salt Lake Tribune.
-
-
 <!--
 *** readme written by K. Sophie Will
 *** Outline credit to: https://github.com/othneildrew/Best-README-Template
