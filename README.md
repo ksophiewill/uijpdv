@@ -13,7 +13,7 @@
     <img src="logos/UIJP_logo2.jpg" alt="UIJP Logo" width="250" height="150">
     
   <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
-    <img src="logos/APF-Logo-v2.jpg" alt="APF Logo" width="200" height="150">
+    <img src="logos/APF-Logo-v2.jpg" alt="APF Logo" width="250" height="150">
   </a>
 <br />
 <div align="center">
@@ -44,7 +44,10 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#guide-to-this-project">Guide to this Project</a>
+      <ul>
+        <li><a href="#data-dictionary">Data Dictionary</a></li>
+      </ul>
     <li><a href="#use">License</a></li>
     <li><a href="#contact-and-credit">Contact and Credit</a></li>
   </ol>
@@ -64,13 +67,13 @@ In this repo you will find the clean data for both Justice and District courts, 
 
 ### Built With
 
-In an effort to make our data as accessible as possible, the analysis was done using Excel and SQL. Files are provided in .csv format.
+In an effort to make our data as accessible as possible, the analysis was done using Excel and SQL. Files are provided in .xlsx and .csv format.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Guide to this Project
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -79,7 +82,19 @@ In an effort to make our data as accessible as possible, the analysis was done u
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Data Dictionary
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- STORIES -->
+## Stories
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## Use
