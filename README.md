@@ -15,16 +15,24 @@ This series was supported by funding from the Alicia Patterson Foundation and th
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ksophiewill/uijpdv">
+    <img src="UIJP_logo2.jpg" alt="UIJP Logo" width="200" height="150">
+  <a href="https://github.com/ksophiewill/uijpdv">
+    <img src="APF-Logo-v2.jpg" alt="APF Logo" width="200" height="150">
   </a>
+<br />
+<div align="center">
+  <a href="https://github.com/ksophiewill/uijpdv">
+    <img src="sltrib.png" alt="SLTrib Logo" width="400" height="60">
+    </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Domestic Violence-Related Charges in Utah State Courts</h3>
 
   <p align="center">
-    project_description
+    Utah State District and Justice Court data from the Utah State Courts, as seen in the Utah Investigative Journalism Project's domestic violence in courts series. This series was supported by funding from the Alicia Patterson Foundation and the Fund for Investigative Journalism and was reported by The Utah Investigative Journalism Project in partnership with The Salt Lake Tribune.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/ksophiewill/uijpdv"><strong>Explore the data »</strong></a>
     <br />
   </p>
 </div>
