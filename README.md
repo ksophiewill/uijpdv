@@ -87,8 +87,24 @@ In an effort to make our data as accessible as possible, this project was done u
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Data Dictionary
-
-
+- Unique_ID: A unique identifier for each case and every charge with this number belongs in the same case.
+- Case_ID: A case identifier as determined by the jurisdiction, may repeat on a statewide scale.
+- Court: Where the charge was filed.
+- Filing_Date: The full date the charge was filed.
+- Filing_Month: The month the charge was filed.
+- Filing_Day: The day the charge was filed.
+- Filing_Year: The year the charge was filed.
+- Official_Violation_Code: The code for the charge in Utah law.
+- Charge: The name of the offense.
+- Severity: What level of charge. 
+- Verdict: The decision of the court on the charge.
+- Sentence_Date: The full date the charge was sentenced.
+- Sentence_Month: The full date the charge was sentenced.
+- Sentence_Day: The full date the charge was sentenced.
+- Sentence_Year: The full date the charge was sentenced.
+  - NOTE: There are "nones" found in the sentencing columns, indicating that in the raw data there was no sentencing date provided when the data was obtained.
+- DV at Disposition: There are three options: "DV at Disposition" meaning the criteria for the case being DV were still present when the charge was disposed; "Not DV at disposition" meaning the criteria for the case being DV were removed through the course of the case; or "Not disposed" - the charge hasn't been adjudicated yet and the determination couldn't be made.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- STORIES -->
