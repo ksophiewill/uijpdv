@@ -10,7 +10,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/ksophiewill/uijpdv">
-    <img src="UIJP_logo2.jpg" alt="UIJP Logo" width="200" height="150">
+    <img src="UIJP_logo2.jpg" alt="UIJP Logo" width="250" height="150">
+    
   <a href="https://github.com/ksophiewill/uijpdv">
     <img src="APF-Logo-v2.jpg" alt="APF Logo" width="200" height="150">
   </a>
@@ -23,7 +24,7 @@
 <h3 align="center">Domestic Violence-Related Charges in Utah State Courts</h3>
 
   <p align="center">
-    Utah State District and Justice Court data from the Utah State Courts, as seen in the Utah Investigative Journalism Project's domestic violence in courts series. This series was supported by funding from the Alicia Patterson Foundation and the Fund for Investigative Journalism and was reported by The Utah Investigative Journalism Project in partnership with The Salt Lake Tribune.
+    Utah District and Justice Court data from the Utah State Courts, as seen in the Utah Investigative Journalism Project's domestic violence in the courts series.
     <br />
     <br />
     <a href="https://github.com/ksophiewill/uijpdv"><strong>Explore the data »</strong></a>
@@ -34,6 +35,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
+<div align="left">
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,13 +62,12 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Throughout 2023, K. Sophie Will and Eric S. Peterson of the Utah Investigative Journalism Project acquired records of nearly a quarter of a million charges filed in Utah State Courts relating to domestic violence covering Dec. 1, 2013 to Nov. 30, 2023. From Sophie's data analysis, Sophie and Eric wrote a series on the state of domestic violence in Utah courts, released in early 2024 by the Salt Lake Tribune, supported by funding from the Alicia Patterson Foundation and the Fund for Investigative Journalism. 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+In this repo you will find the clean data for both Justice and District courts, as well as a data memo with our findings. The data may be forked or otherwise duplicated with credit given to the Utah State Courts and the Utah Investigative Journalism Project. Please don't hesitate to reach out to Sophie with any questions, her contact information can be found below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,62 +75,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+In an effort to make our data as accessible as possible, the analysis was done using Excel and SQL. Files are provided in .csv format.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
