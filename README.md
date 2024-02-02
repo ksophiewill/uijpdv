@@ -9,15 +9,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ksophiewill/uijpdv">
+  <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
     <img src="UIJP_logo2.jpg" alt="UIJP Logo" width="250" height="150">
     
-  <a href="https://github.com/ksophiewill/uijpdv">
+  <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
     <img src="APF-Logo-v2.jpg" alt="APF Logo" width="200" height="150">
   </a>
 <br />
 <div align="center">
-  <a href="https://github.com/ksophiewill/uijpdv">
+  <a href="https://github.com/ksophiewill/uijpdv/tree/main/logos">
     <img src="sltrib.png" alt="SLTrib Logo" width="400" height="60">
     </a>
 
