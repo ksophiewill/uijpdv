@@ -24,7 +24,7 @@
 <h3 align="center">Domestic Violence-Related Charges in Utah State Courts</h3>
 
   <p align="center">
-    Utah District and Justice Court data from the Utah State Courts, as seen in the Utah Investigative Journalism Project's domestic violence in the courts series.
+    Utah District and Justice Court data from the Utah State Courts, as seen in the Utah Investigative Journalism Project's domestic violence in the courts series published by the Salt Lake Tribune and supported by funding from the Alicia Patterson Foundation and the Fund for Investigative Journalism.
     <br />
     <br />
     <a href="https://github.com/ksophiewill/uijpdv"><strong>Explore the data »</strong></a>
@@ -128,6 +128,8 @@ These will continually be updated.
 ## Use
 
 The data may be forked or otherwise duplicated with credit given to the Utah State Courts and the Utah Investigative Journalism Project. 
+
+To use the files outside of GitHub, simply download the raw file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
