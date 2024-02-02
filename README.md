@@ -67,7 +67,7 @@ In this repo you will find the clean data for both Justice and District courts, 
 
 ### Built With
 
-In an effort to make our data as accessible as possible, the analysis was done using Excel and SQL. Files are provided in .xlsx and .csv format.
+In an effort to make our data as accessible as possible, this project was done using Excel and SQL. Files are provided in .xlsx and .csv format.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,14 +75,19 @@ In an effort to make our data as accessible as possible, the analysis was done u
 <!-- ROADMAP -->
 ## Guide to this Project
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
+- [ ] Data
+  - [ ] District Master (in .xlsx and .csv) is the raw and cleaned data of every charge relating to domestic violence filed in District Courts in the time frame.
+  - [ ] Justice Master (in .xlsx and .csv) is the raw and cleaned data of every charge relating to domestic violence filed in Justice Courts in the time frame.
+    - NOTE: The Justice Master .csv file had to be zipped due to its size.
+- [ ] Data Analysis
+  - [ ] UIJP Data Memo is a .pdf of the case analysis done on the raw data, grouped by cases, from both courts. It includes numbers on the total charges and cases, the proportion of cases to the population, case severity, whether the case was related to domestic violence at its disposition, filing year, sentencing year, verdict, per court, dismissals per court, the severity of those dismissed and dismissals by urban and rural areas.
+  - [ ] District Data Analysis and Justice Data Analysis are Excel workbooks containing the tables in the data memo for ease of use.
+  - NOTE: This analysis was done by grouping charges into their cases, so when describing these findings, use the wording "__ number of cases include at least one charge that __."
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Data Dictionary
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
