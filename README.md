@@ -47,6 +47,7 @@
     <li><a href="#guide-to-this-project">Guide to this Project</a>
       <ul>
         <li><a href="#data-dictionary">Data Dictionary</a></li>
+        <li><a href="#faq">FAQ</a></li>
       </ul>
     <li><a href="#use">License</a></li>
     <li><a href="#contact-and-credit">Contact and Credit</a></li>
@@ -62,7 +63,6 @@ Throughout 2023, K. Sophie Will and Eric S. Peterson of the Utah Investigative J
 In this repo you will find the clean data for both Justice and District courts, as well as a data memo with our findings. Please don't hesitate to reach out to Sophie with any questions, her contact information can be found below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -83,6 +83,7 @@ In an effort to make our data as accessible as possible, this project was done u
   - [ ] UIJP Data Memo is a .pdf of the case analysis done on the raw data, grouped by cases, from both courts. It includes numbers on the total charges and cases, the proportion of cases to the population, case severity, whether the case was related to domestic violence at its disposition, filing year, sentencing year, verdict, per court, dismissals per court, the severity of those dismissed and dismissals by urban and rural areas.
   - [ ] District Data Analysis and Justice Data Analysis are Excel workbooks containing the tables in the data memo for ease of use.
   - NOTE: This analysis was done by grouping charges into their cases, so when describing these findings, use the wording "__ number of cases include at least one charge that __."
+  - NOTE: District data was compiled by county, Justice data remained on the court level.
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,13 +108,19 @@ In an effort to make our data as accessible as possible, this project was done u
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### FAQ
+These will continually be updated.
+- Q: In the data analysis, under population proportion, several courts have empty cells for the population markers. Why?
+  - A: These areas have less than 5,000 people as per the 2020 Census.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- STORIES -->
 ## Stories
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Main bar TK
+- [ ] More stories are still coming! Keep an eye on the Salt Lake Tribune for our full series in the coming weeks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
