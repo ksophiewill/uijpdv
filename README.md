@@ -119,7 +119,7 @@ These will continually be updated.
 <!-- STORIES -->
 ## Stories
 
-- [ ] Main bar TK
+- [ ] [Utah’s domestic violence crisis has gotten worse after a change meant to help victims](https://www.sltrib.com/news/2024/02/05/utahs-domestic-violence-crisis-has/) 
 - [ ] More stories are still coming! Keep an eye on the Salt Lake Tribune for our full series in the coming weeks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
